@@ -2,4 +2,5 @@
 let a = 0;
 let c = 0;
 let e = 0;
+let f = 0;
 console.log(a);
